@@ -1,0 +1,4 @@
+create database votingdatabase;
+use votingdatabase;
+create table studentdata(fname varchar(100),lname varchar(100),username varchar(100),password varchar(100));
+create table devlang(username varchar(100),votes varchar(500));
